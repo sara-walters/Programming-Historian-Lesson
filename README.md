@@ -1,0 +1,2 @@
+## Mapping Mrs Dalloway by Virginia Woolf
+This lesson will walk you through the process of mapping locations found in Virginia Woolf's Mrs. Dalloway. Using the Python library spaCy, we will identify place names from the text and match them with coordinates that can be added as a layer into a mapping software like ArcGIS Online. Through this approach, we can visualize and reflect on the spatial dimensions of Woolf’s writing – how does she use setting to reflect the internal lives of the characters? Are there patterns in the places mentioned?
